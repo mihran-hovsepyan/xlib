@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "xlib", "xlib\xlib.vcxproj", "{36771ADB-1D3D-4034-B105-B17AF0ED905C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36771ADB-1D3D-4034-B105-B17AF0ED905C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{36771ADB-1D3D-4034-B105-B17AF0ED905C}.Debug|Win32.Build.0 = Debug|Win32
+		{36771ADB-1D3D-4034-B105-B17AF0ED905C}.Release|Win32.ActiveCfg = Release|Win32
+		{36771ADB-1D3D-4034-B105-B17AF0ED905C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
